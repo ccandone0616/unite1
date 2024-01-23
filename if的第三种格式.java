@@ -1,7 +1,7 @@
 package one.four;
 //coco
 import java.util.Scanner;
-
+//pull
 public class if的第三种格式 {
     public static void main(String[] args) {
 //        if(关系表达){
