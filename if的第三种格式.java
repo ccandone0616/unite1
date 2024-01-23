@@ -14,7 +14,7 @@ public class if的第三种格式 {
 
 //从上往下判断 只有一个为真,就执行对应的语句题 如果所有判断为假,则执行else语句体
 
-
+//hhaha
 //        1.
         Scanner sc = new Scanner(System.in);
         System.out.println("请录入小明的成绩");
