@@ -1,5 +1,6 @@
 package one.four;
 //coco
+//git update
 import java.util.Scanner;
 //pull
 public class if的第三种格式 {
